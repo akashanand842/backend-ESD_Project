@@ -6,4 +6,5 @@ public interface EmployeeDAO {
     boolean addEmployee(Employee employee);
 
     boolean verifyEmployee(Employee employee);
+
 }
